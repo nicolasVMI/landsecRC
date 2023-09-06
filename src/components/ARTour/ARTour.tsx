@@ -94,7 +94,7 @@ function ARTour() {
     },
     {
       texture: "/textures/landsec/lion_terrace.webp",
-      rotation: [0, 3.5, 0],
+      rotation: [0, 2.8, 0],
     },
     {
       texture: "/textures/landsec/timber_int.webp",
